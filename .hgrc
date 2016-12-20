@@ -1,0 +1,16 @@
+[ui]
+username = Piotr Gaczkowski <doomhammerng@gmail.com>
+interface = curses
+
+[pager]
+pager = LESS="FRX" less
+
+[automv]
+similarity = 75
+
+[extensions]
+automv =
+color =
+mq =
+pager =
+shelve =
